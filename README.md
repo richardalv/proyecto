@@ -1,4 +1,1 @@
 # proyecto
-
-
-#Autor: Richard Ariza
